@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+body{
+    background: rgb(0, 0, 0);
+    height: 1000px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 20px;
+}
+.header-nav a{
+    text-decoration: none;
+    margin: 0 25px;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.header-h1{
+    color: white;
+}
+.hesder-btn{
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0px 15px 30px rgb(10, 9, 9);
+    border-radius: 3px;
+    width: 112px;
+    height: 40px;
+    color: #faf4f4;
+    border: none;
+}
+.hero-h3{
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #16FCD2;
+    margin: 70px 0 0 0;
+}
+.hero-h1{
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 20px 0;
+}
+.hero-p{
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+
+}
+.hero-btn{
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 10px;
+    width: 160px;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+
+}
+.hero-btn2{
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 10px;
+    width: 160px;
+    height: 40px;
+    background: #6016FC;
+    border-radius: 3px;
+}
+.hero-btn1{
+    display: flex;
+    justify-content: center;
+    margin: 15px 10px;
+}
+.block{
+    width: 230px;
+    height: 230px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 5px;
+}
+.block img{
+    margin: 20px 30px 0 ;
+}
+.swiper-h1{
+    font-size: 17px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin: 17px 30px 0 ;
+}
+.swiper-p{
+    font-size: 13px;
+    line-height: 32px;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 10px 30px;
+}
+.swiper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 90px 300px;
+}
+
+
+
+
+
+
+
+
+
+
